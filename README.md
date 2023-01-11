@@ -1,4 +1,4 @@
-![logo](https://github.com/Ali-Razaaa/Ali-Razaaa/blob/main/web%20developer%20(2).png)
+![log](https://github.com/Ali-Razaaa/Ali-Razaaa/blob/main/web%20developer%20(3).png)
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A passionate web-application & web-development expert from Pakistan</h3>
 
