@@ -21,8 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-razaaa&show_icons=true&locale=en&layout=compact" alt="ali-razaaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-razaaa&show_icons=true&locale=en" alt="ali-razaaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-razaaa&show_icons=true&locale=en" alt="ali-razaaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-razaaa&" alt="ali-razaaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=ali-razaaa&" alt="ali-razaaa" /></p>
 
 
