@@ -1,6 +1,6 @@
 ![log](https://github.com/Ali-Razaaa/Ali-Razaaa/blob/main/web%20developer%20(3).png)
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">A passionate web-application & web-development expert from Pakistan</h3>
+<h3 align="center">A passionate Web, AI, Blockchain development expert from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
